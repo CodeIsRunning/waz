@@ -1,0 +1,43 @@
+/* pages/note/note.wxss */
+page {
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-image: linear-gradient(to top, #a8edea 0%, #fed6e3 100%);
+}
+
+.menuItem {
+  display: flex;
+  height: 111rpx;
+  align-items: center;
+  padding-left: 60rpx;
+  position: relative;
+  margin-top: 5px;
+  border: 0;
+  border-bottom: 1px solid #d0d0d5;
+}
+
+.menuItem image {
+  width: 70rpx;
+  height: 70rpx;
+
+}
+
+.img-arrow {
+  width: 70rpx;
+  height: 70rpx;
+  position: absolute;
+  right: 40rpx
+}
+
+.menuItem text {
+  text-align: center;
+  font-family: Apple LiGothic Medium;
+  font-size: 30rpx;
+  margin-left: 30rpx
+}
+
+.menuItem text text {
+  font-family: Apple LiGothic Medium;
+  font-weight: 500;
+  font-size: 20rpx;
+}

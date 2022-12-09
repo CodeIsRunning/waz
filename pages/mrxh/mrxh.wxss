@@ -1,0 +1,40 @@
+/* pages/caihongpi/caihongpi.wxss */
+page {
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-image: linear-gradient(to top, #a8edea 0%, #fed6e3 100%);
+}
+
+
+textarea {
+  margin: 30px;
+  text-align: left;
+  margin-right: 30px;
+  height: 200px;
+  border: 0;
+  border-bottom: 1px solid #000008;
+  line-height: 30px;
+  font-family: Impact, Haettenschweiler, ‘Arial Narrow Bold’, sans-serif;
+}
+
+.tabbar {
+  display: flex;
+  width: 100%;
+  /* margin-left: 60px; */
+
+}
+
+.tab-nomal {
+  font-size: 30rpx;
+  color: white;
+  background: #008cea;
+  border-radius: 20rpx;
+  border: 1rpx solid transparent;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 8rpx 15rpx 10rpx 15rpx;
+  margin-left: 40px;
+  width: 60px;
+  height: 30px;
+}

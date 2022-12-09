@@ -1,0 +1,22 @@
+{
+  "pages":[
+    "pages/note/note",
+    "pages/chp/chp",
+    "pages/djt/djt",
+    "pages/pyq/pyq",
+    "pages/twqh/twqh",
+    "pages/wyy/wyy",
+    "pages/tgrj/tgrj",
+    "pages/shyl/shyl",
+    "pages/mrxh/mrxh"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fed6e3",
+    "navigationBarTitleText": "旧纸板",
+    "navigationBarTextStyle":"black"
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json",
+  "lazyCodeLoading": "requiredComponents"
+}

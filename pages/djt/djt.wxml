@@ -1,0 +1,10 @@
+<!--pages/caihongpi/caihongpi.wxml-->
+
+
+<textarea disabled="true"  value="{{textVal}}"></textarea>
+
+<view class='tabbar'> 
+  <!-- <text class="tab-nomal" open-type="share">分享</text> -->
+  <text class="tab-nomal" bindtap='copy' data-index='1'>复制</text>
+  <text class="tab-nomal" bindtap='once' data-index='2'>再来一条</text>
+</view>

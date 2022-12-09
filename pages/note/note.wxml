@@ -1,0 +1,55 @@
+<!--pages/note/note.wxml-->
+
+<view class='menuItem'>但行好事，莫问前程。</view>
+<view class='menuItem' bindtap='chp'>
+  <image src='/images/chp.png' />
+  <text>无限彩虹屁<text>随时随地享受彩虹屁</text>
+  </text>
+  <image class='img-arrow' src='/images/ic_arrow.png'></image>
+</view>
+<view class='menuItem' bindtap='pyq'>
+  <image src='/images/pyq.png' />
+  <text>朋友圈不发愁<text>友圈文化</text>
+  </text>
+  <image class='img-arrow' src='/images/ic_arrow.png'></image>
+</view>
+<view class='menuItem' bindtap='djt'>
+  <image src='/images/du.png' />
+  <text>深夜毒鸡汤<text>早不晚来一口</text></text>
+  
+  <image class='img-arrow' src='/images/ic_arrow.png'></image>
+</view>
+<view class='menuItem' bindtap='twqh'>
+  <image src='/images/twqh.jpeg' />
+  <text>土味情话<text>土不土不知道</text></text>
+  
+  <image class='img-arrow' src='/images/ic_arrow.png'></image>
+</view>
+
+<view class='menuItem' bindtap='wyy'>
+  <image src='/images/wyy.jpeg' />
+  <text>网易云文案<text>精选热评</text></text>
+  
+  <image class='img-arrow' src='/images/ic_arrow.png'></image>
+</view>
+
+<view class='menuItem' bindtap='tgrj'>
+  <image src='/images/tgrj.png' />
+  <text>舔狗日记<text>舔狗的世界有多惨</text></text>
+  
+  <image class='img-arrow' src='/images/ic_arrow.png'></image>
+</view>
+
+<view class='menuItem' bindtap='shyl'>
+  <image src='/images/shyl.png' />
+  <text>社会语录<text>天晴了，雨停了，二柱子觉得自己又行了</text></text>
+  
+  <image class='img-arrow' src='/images/ic_arrow.png'></image>
+</view>
+
+<view class='menuItem' bindtap='mrxh'>
+  <image src='/images/mrxh.jpeg' />
+  <text>每日笑话<text>开心一整天</text></text>
+  
+  <image class='img-arrow' src='/images/ic_arrow.png'></image>
+</view>
